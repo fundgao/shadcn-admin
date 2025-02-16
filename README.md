@@ -14,10 +14,13 @@ bun dev
 
 ## Learn More
 
-- https://ui.shadcn.com/docs/components/accordion
-- https://nextjs.org/docs/app/getting-started/installation
-- https://tailwindcss.com/docs/position
+- shadcn https://ui.shadcn.com/docs/components/accordion
+- nextjs https://nextjs.org/docs/app/getting-started/installation
+- tailwindcss https://tailwindcss.com/docs/position
+- 微信公众平台 https://mp.weixin.qq.com/
+- deepseek https://www.deepseek.com/
 
-## Deploy on Netlify
+## Deploy
 
-- https://app.netlify.com
+- Netlify https://app.netlify.com
+- 腾讯云 https://cloud.tencent.com
