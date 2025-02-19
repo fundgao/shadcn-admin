@@ -9,7 +9,6 @@ import {
   Aperture,
   GalleryVerticalEnd,
   Dog,
-  PieChart,
   Settings,
   Users,
   NotepadText,
@@ -57,7 +56,7 @@ const data = {
   navMain: [
     {
       title: "首页概况",
-      url: "#",
+      url: "/dashboard",
       icon: SquareTerminal,
       isActive: true,
     },
