@@ -4,14 +4,18 @@ import * as React from "react";
 import {
   AudioWaveform,
   BookOpen,
-  Bot,
+  Gift,
   Command,
-  Frame,
+  Aperture,
   GalleryVerticalEnd,
-  Map,
+  Dog,
   PieChart,
-  Settings2,
+  Settings,
+  Users,
+  NotepadText,
+  BadgeJapaneseYen,
   SquareTerminal,
+  Github,
 } from "lucide-react";
 
 import { NavMain } from "@/components/nav-main";
@@ -52,59 +56,122 @@ const data = {
   ],
   navMain: [
     {
-      title: "Playground",
+      title: "首页概况",
       url: "#",
       icon: SquareTerminal,
       isActive: true,
-      items: [
-        {
-          title: "History",
-          url: "#",
-        },
-        {
-          title: "Starred",
-          url: "#",
-        },
-        {
-          title: "Settings",
-          url: "#",
-        },
-      ],
     },
     {
-      title: "Models",
+      title: "产品管理",
       url: "#",
-      icon: Bot,
+      icon: Gift,
       items: [
         {
-          title: "Genesis",
+          title: "产品列表",
           url: "#",
         },
         {
-          title: "Explorer",
+          title: "产品分类",
           url: "#",
         },
         {
-          title: "Quantum",
+          title: "产品属性",
+          url: "#",
+        },
+        {
+          title: "产品服务",
+          url: "#",
+        },
+        {
+          title: "产品评论",
           url: "#",
         },
       ],
     },
     {
-      title: "Documentation",
+      title: "订单管理",
+      url: "#",
+      icon: NotepadText,
+      items: [
+        {
+          title: "订单管理",
+          url: "#",
+        },
+        {
+          title: "售后服务",
+          url: "#",
+        },
+        {
+          title: "核销服务",
+          url: "#",
+        },
+      ],
+    },
+    {
+      title: "财务管理",
+      url: "#",
+      icon: BadgeJapaneseYen,
+      items: [
+        {
+          title: "财务概况",
+          url: "#",
+        },
+        {
+          title: "提现管理",
+          url: "#",
+        },
+        {
+          title: "发票管理",
+          url: "#",
+        },
+        {
+          title: "资金记录",
+          url: "#",
+        },
+        {
+          title: "佣金记录",
+          url: "#",
+        },
+      ],
+    },
+    {
+      title: "会员管理",
+      url: "#",
+      icon: Users,
+      items: [
+        {
+          title: "会员管理",
+          url: "#",
+        },
+        {
+          title: "会员分组",
+          url: "#",
+        },
+        {
+          title: "会员等级",
+          url: "#",
+        },
+        {
+          title: "会员标签",
+          url: "#",
+        },
+      ],
+    },
+    {
+      title: "公司管理",
       url: "#",
       icon: BookOpen,
       items: [
         {
-          title: "Introduction",
+          title: "公司介绍",
           url: "#",
         },
         {
-          title: "Get Started",
+          title: "代理介绍",
           url: "#",
         },
         {
-          title: "Tutorials",
+          title: "产品介绍",
           url: "#",
         },
         {
@@ -114,24 +181,20 @@ const data = {
       ],
     },
     {
-      title: "Settings",
+      title: "系统设置",
       url: "#",
-      icon: Settings2,
+      icon: Settings,
       items: [
         {
-          title: "General",
+          title: "用户管理",
           url: "#",
         },
         {
-          title: "Team",
+          title: "角色管理",
           url: "#",
         },
         {
-          title: "Billing",
-          url: "#",
-        },
-        {
-          title: "Limits",
+          title: "操作日志",
           url: "#",
         },
       ],
@@ -139,19 +202,19 @@ const data = {
   ],
   projects: [
     {
-      name: "Design Engineering",
-      url: "#",
-      icon: Frame,
+      name: "金狗科技",
+      url: "https://goldog.netlify.app",
+      icon: Dog,
     },
     {
-      name: "Sales & Marketing",
-      url: "#",
-      icon: PieChart,
+      name: "FundOS",
+      url: "https://ai16z.netlify.app",
+      icon: Aperture,
     },
     {
-      name: "Travel",
-      url: "#",
-      icon: Map,
+      name: "Github",
+      url: "https://github.com/fundgao",
+      icon: Github,
     },
   ],
 };
