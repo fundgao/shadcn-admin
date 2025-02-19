@@ -24,3 +24,7 @@ bun dev
 
 - Netlify https://app.netlify.com
 - 腾讯云 https://cloud.tencent.com
+
+## 项目截图
+
+<img width="1120" src="/public/admin.png"/>
