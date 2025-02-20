@@ -56,7 +56,7 @@ const data = {
   navMain: [
     {
       title: "首页概况",
-      url: "/dashboard",
+      url: "/",
       icon: SquareTerminal,
       isActive: true,
     },
