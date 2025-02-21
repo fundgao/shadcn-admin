@@ -180,7 +180,7 @@ const Sidebar = React.forwardRef<
     const [hideSidebar, setHideSidebar] = React.useState(true);
 
     React.useEffect(() => {
-      setHideSidebar(["/login"].includes(getPathname()));
+      setHideSidebar(["/login", "/404"].includes(getPathname()));
     }, []);
 
     if (collapsible === "none") {
