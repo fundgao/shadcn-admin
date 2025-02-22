@@ -63,6 +63,7 @@ export default function Home() {
             </LineShadowText>
           </h1>
         </div>
+        <div className="login-form absolute top-1/2 left-1/2"></div>
         <div className="content-bottom absolute w-full bottom-[100px]">
           <div className="icons flex justify-center flex-wrap gap-x-8 gap-y-4">
             <Link href="https://goldog.netlify.app/" target="_blank">
