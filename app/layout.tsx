@@ -24,7 +24,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  // TODO if not login, redirect to login page11
+  // TODO if not login, redirect to login page
   return (
     <html lang="zh-CN">
       <body
