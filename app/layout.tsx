@@ -33,7 +33,7 @@ export default function RootLayout({
         <SidebarProvider>
           <AppSidebar />
           <main className="w-full h-screen overflow-hidden relative">
-            {/* 设置顶栏 1*/}
+            {/* 设置顶栏 */}
             {children}
           </main>
         </SidebarProvider>
