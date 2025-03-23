@@ -19,7 +19,7 @@ export default function Home() {
 
   const classIcon =
     "p-1 rounded-3xl bg-slate-500/50 transition ease-in-out delay-350 hover:bg-slate-600/50 hover:scale-105";
-  // 登录用next-auth https://next-auth.js.org/getting-started/example
+  // 登录用next-auth https://next-auth.js.org/getting-started/example 1
   return (
     <main className="relative w-full h-screen select-none overflow-hidden bg-black">
       <video
