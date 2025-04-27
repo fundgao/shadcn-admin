@@ -19,6 +19,9 @@ bun dev
 - tailwindcss https://tailwindcss.com/docs/position
 - 微信公众平台 https://mp.weixin.qq.com/
 - deepseek https://www.deepseek.com/
+- Next Auth
+- Prisma
+- API
 
 ## Deploy
 
