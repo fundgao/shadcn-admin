@@ -31,4 +31,3 @@ bun dev
 ## 项目截图
 
 <img width="1120" src="/public/admin.png"/>
-
