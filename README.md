@@ -23,6 +23,7 @@ bun dev
 - Prisma
 - API
 
+
 ## Deploy
 
 - Netlify https://app.netlify.com
