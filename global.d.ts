@@ -3,3 +3,4 @@ declare type AxiosDataType = {
   url: string;
   params?: any;
 };
+
