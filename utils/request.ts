@@ -67,3 +67,4 @@ export const request = async ({ method, url, params }: AxiosDataType) => {
 };
 
 export default request;
+
