@@ -38,7 +38,9 @@ bun dev
 
 ## 构建产物分析
 - `npm install --save-dev rollup-plugin-visualizer` https://www.npmjs.com/package/rollup-plugin-visualizer
-- ```import { defineConfig } from 'vite'
+
+```
+import { defineConfig } from 'vite'
 import { visualizer } from 'rollup-plugin-visualizer'
 
 export default defineConfig({
