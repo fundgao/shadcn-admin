@@ -35,3 +35,6 @@ bun dev
 
 ## Google Translate
 - https://cloud.google.com/translate
+
+## 构建产物分析
+- `npm install --save-dev rollup-plugin-visualizer` https://www.npmjs.com/package/rollup-plugin-visualizer
