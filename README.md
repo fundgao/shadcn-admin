@@ -58,3 +58,6 @@ export default defineConfig({
   }
 })
 ```
+
+## Vite
+- https://cn.vite.dev/guide/
