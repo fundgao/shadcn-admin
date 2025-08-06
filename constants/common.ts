@@ -20,3 +20,4 @@ export enum ModalType {
   Edit = "edit",
   Add = "add",
 }
+
