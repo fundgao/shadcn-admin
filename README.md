@@ -61,3 +61,8 @@ export default defineConfig({
 ## Vite
 - https://cn.vite.dev/guide/
 
+Next.js 16
+
+React 19.2  
+View Transitions、useEffectEvent、<Activity />
+
