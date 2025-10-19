@@ -64,5 +64,5 @@ export default defineConfig({
 Next.js 16
 
 React 19.2  
-View Transitions、useEffectEvent、<Activity />
+View Transitions、useEffectEvent、<Activity /> TipTap
 
