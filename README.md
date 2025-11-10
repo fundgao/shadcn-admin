@@ -23,7 +23,7 @@ bun dev
 - Prisma
 - API
 
-## Deploy
+## Deploy 
 
 - Netlify https://app.netlify.com
 - 腾讯云 https://cloud.tencent.com
