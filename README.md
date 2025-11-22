@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```bash
-npm run dev
+npm run dev 
 # or
 yarn dev
 # or
